@@ -1,0 +1,15 @@
+{
+    "displayName": "TimeTracker",
+    "publisher": "dronaka",
+    "icon": "icon.png",
+    "homepage": "https://github.com/dronaka/TimeTracker-for-VS-code.git",
+    "categories": [
+      "Other"
+    ],
+
+    "activationEvents": [
+      "onCommand:TimeTracker.start",
+      "onCommand:TimeTracker.pause",
+      "onCommand:TimeTracker.stop"
+    ]
+  }
